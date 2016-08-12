@@ -12,7 +12,7 @@ knit(componentName, prototypeProps = {}, classProps = {});
 
 // `knit` creates new component via `class extends React.Component`
 // `init` is a special function, it is executed during `constuctor` execution
-knit('MyComponent', { init, render }, { propTypes })
+const MyComponent = knit('MyComponent', { init, render }, { propTypes })
 ```
 
 ### Example
