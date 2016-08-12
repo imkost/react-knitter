@@ -1,6 +1,6 @@
 {
   "name": "react-knitter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Make React components from functions",
   "main": "index.js",
   "scripts": {},
